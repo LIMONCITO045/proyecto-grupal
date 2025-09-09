@@ -1,7 +1,7 @@
 from clases.operaciones import Operaciones
 
-def main():
-
+def main():    
+    
     #test = Nombres()
     
     #Prueba base
